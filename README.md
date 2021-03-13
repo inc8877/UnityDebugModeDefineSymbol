@@ -12,7 +12,7 @@ A useful tool for running specific code <br>
 ## How to use
 1. Add source code of this repo to your project
 2. Manage debug mode by following this path `Tools -> Debug Mode Definition ->` `On` / `Off`
-<img width="372" alt="choiceDiaologWindow" src="https://user-images.githubusercontent.com/29813954/110636484-fa65bd00-81b4-11eb-88e9-c0b55ad82a21.png">
+<img width="372" alt="choiceDiaologWindow_DebugMode" src="https://user-images.githubusercontent.com/29813954/111028008-6c7c1300-83fc-11eb-83f5-49093ae5c7da.png">
 
 3. For code that should be executed only when the debug mode is turned on, put it in the definition like this:
 
