@@ -1,0 +1,26 @@
+{
+  "name": "com.inc8877.unity-debug-mode-define-symbol",
+  "version": "1.0.2",
+  "displayName": "UnityDebugModeDefineSymbol",
+  "description": "A useful tool for running specific code",
+  "keywords": [
+    "definition",
+    "unity",
+    "tool",
+    "debug",
+    "mode",
+    "symbol",
+    "define",
+    "preprocessor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inc8877/UnityDebugModeDefineSymbol.git"
+  },
+  "author": {
+    "name": "Volodymyr Bozhko",
+    "email": "inc8877@gmail.com",
+    "url": "https://github.com/inc8877"
+  },
+  "license": "MIT"
+}
