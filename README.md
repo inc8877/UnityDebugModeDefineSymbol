@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" height="333" src="https://user-images.githubusercontent.com/29813954/116009658-a1969a80-a623-11eb-838d-e5bf004bd051.png">
+</p>
+
 # UnityDebugModeDefineSymbol
 
 A useful tool for running specific code  
@@ -12,6 +16,7 @@ A useful tool for running specific code
   - [Installation](#installation)
     - [Install via OpenUPM](#install-via-openupm)
     - [Install via Git URL](#install-via-git-url)
+  - [Credits](#credits)
 
 ## Compatibility
 
@@ -58,3 +63,7 @@ Open `Packages/manifest.json` with your favorite text editor. Add the following 
    }
 }
 ```
+
+## Credits
+
+Cover background by [Florian Olivo](https://unsplash.com/@florianolv)
