@@ -22,7 +22,6 @@ namespace UnityDebugModeDefineSymbol.Editor
                 if (EditorUtility.DisplayDialog("Turn on the debug mode definition?",
                     "If the debug mode enabled, all the code in the definition 'DEBUG_MODE_IN_USE' will be executed", "Yes", "No"))
                 {
-                    PlayerPrefs.SetInt("debugModeInUseKey", 1);
                     DefineSymbols(true);
                 }
             }
@@ -40,7 +39,6 @@ namespace UnityDebugModeDefineSymbol.Editor
                 if (EditorUtility.DisplayDialog("Turn off the debug mode definition?",
                     "The code in the 'DEBUG_MODE_IN_USE' definition will not be execute", "Yes", "No"))
                 {
-                    PlayerPrefs.SetInt("debugModeInUseKey", 0);
                     DefineSymbols(false);
                 }
             }

@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.3
+
+### Removed
+
+- `PlayerPrefs` saving for controlling symbol state
+
+---
+
 ## v1.0.2
 
 ### Added
