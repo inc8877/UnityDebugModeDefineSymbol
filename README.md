@@ -4,6 +4,8 @@
 
 # UnityDebugModeDefineSymbol
 
+[![openupm](https://img.shields.io/npm/v/com.inc8877.unity-debug-mode-define-symbol?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.inc8877.unity-debug-mode-define-symbol/)
+
 A useful tool for running specific code  
 [What it is?](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/preprocessor-if)
 
